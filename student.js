@@ -7,5 +7,6 @@ const students = [
     {id:6,Name:"Timothy Ifeomimi", Score:51, Remark:"good"},
     {id:7,Name:"Onyema Miracle", Score:83, Remark:"Excellent"},
     {id:8,Name:"Okpabia Mmesoma", Score:73, Remark:"Very Good"},
+    {id:9,Name:"Maduka chioma", Score:83, Remark:"Excellent"}
 ]
 module.exports = students

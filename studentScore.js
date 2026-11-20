@@ -25,4 +25,4 @@ students.create(studentProfile)
 res.status(201).json("New student has been successfully created")
 }
 
-module.exports = {studentScore,findOneStudent,addStudent}
+module.exports = {studentScore,findOneStudent,addStudent} 
