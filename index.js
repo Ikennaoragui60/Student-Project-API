@@ -20,7 +20,7 @@ app.get("/username/:surname",(req,res)=>{
 })
 // get one student
 app.get("/students/:studentId",findOneStudent)
-app.post("/newStudent",addStudent)
+app.post("/newStudent",addStudent) 
 
 
 app.listen(1234,()=>{console.log("My app is running on port 1234")})

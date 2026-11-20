@@ -4,7 +4,7 @@ const mongoose = require("mongoose")
 // step 2, configure your model
 
 const schema = mongoose.Schema({
-    name:{type:String,require:true},
+    name:{type:String,required:true},
     score:{type:Number,required:true,max:100},
     remark:{type:String,}
 })
