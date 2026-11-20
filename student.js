@@ -1,12 +1,12 @@
 const students = [
-    {id:1,Name:"Oragui Ikenna", Score:89, Remark:"Excellent"},
-    {id:2,Name:"Oragui Obinna", Score:57, Remark:"Good"},
-    {id:3,Name:"Uzochukwu Somtochukwu", Score:72, Remark:"Very Good"},
-    {id:4,Name:"Chibueze Oluebube", Score:59, Remark:"Good"},
-    {id:5,Name:"Umenwa Kosisochukwu", Score:48, Remark:"Pass"},
-    {id:6,Name:"Timothy Ifeomimi", Score:51, Remark:"good"},
-    {id:7,Name:"Onyema Miracle", Score:83, Remark:"Excellent"},
-    {id:8,Name:"Okpabia Mmesoma", Score:73, Remark:"Very Good"},
-    {id:9,Name:"Maduka chioma", Score:83, Remark:"Excellent"}
+    {id:1,Name:"Oragui Ikenna Jonah", Score:81, Remark:"Excellent"},
+    {id:2,Name:"Oragui Obinna John", Score:81, Remark:"Excellent"},
+    {id:3,Name:"Uzochukwu Somtochukwu Promise", Score:81, Remark:"Excellent"},
+    {id:4,Name:"Chibueze Oluebube Cynthia", Score:81, Remark:"Excellent"},
+    {id:5,Name:"Umenwa Kosisochukwu Humphrey", Score:81, Remark:"Excellent"},
+    {id:6,Name:"Timothy Ifeomimi Winner", Score:81, Remark:"Excellent"},
+    {id:7,Name:"Onyema Miracle", Score:81, Remark:"Excellent"},
+    {id:8,Name:"Okpabia Mmesoma", Score:81, Remark:"Excellent"},
+    {id:9,Name:"Maduka chioma", Score:81, Remark:"Excellent"}
 ]
 module.exports = students
